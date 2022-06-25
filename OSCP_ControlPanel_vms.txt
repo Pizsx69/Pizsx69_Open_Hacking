@@ -1,35 +1,35 @@
-Asserition101		intermediate		https://www.vulnhub.com/entry/assertion-1,495/
-Born2Root		  	intermediate		https://www.vulnhub.com/entry/born2root-1,197/
-Bottleneck			intermediate		https://www.vulnhub.com/entry/bottleneck-1,374/
-BTRSYS V2.1			intermediate	  https://www.vulnhub.com/entry/btrsys-v21,196/
-Sunset:dawn2		intermediate		https://www.vulnhub.com/entry/sunset-dawn2,424/
-Sunset Dawn3		intermediate	  https://www.vulnhub.com/entry/sunset-dawn3,436/
-Djinn3				  intermediate		https://www.vulnhub.com/entry/djinn-3,492/
-Funbox:easyenum	intermediate		https://www.vulnhub.com/entry/funbox-easyenum,565/
-Geisha:1			  intermediate		https://www.vulnhub.com/entry/geisha-1,481/
-Gitroot				  hard			    	https://www.vulnhub.com/entry/gitroot-1,488/
-Glasgow smile   intermediate		https://www.vulnhub.com/entry/glasgow-smile-11,491/
-Ha-natraj			  hard				    https://www.vulnhub.com/entry/ha-natraj,489/
-Ha:Wordy			  intermediate		https://www.vulnhub.com/entry/ha-wordy,363/
-Inclusiveness:1	hard		    		https://www.vulnhub.com/entry/inclusiveness-1,422/
-Insanity:1			very hard		  	https://www.vulnhub.com/entry/insanity-1,536/
-Katana:1			  intermediate 		https://www.vulnhub.com/entry/katana-1,482/
-Lampiao				  intermediate		https://www.vulnhub.com/entry/lampiao-1,249/
-Loly:1				  intermediate		https://www.vulnhub.com/entry/loly-1,538/
-My CMSMS:1			intermediate		https://www.vulnhub.com/entry/my-cmsms-1,498/
-Photographer		intermediate 		https://www.vulnhub.com/entry/photographer-1,519/
-Potato:1			  intermediate		https://www.vulnhub.com/entry/potato-1,529/
-Powergrid:1.0.1	very hard			  https://www.vulnhub.com/entry/powergrid-1,485/
-Pyexp:1				  intermediate  	https://www.vulnhub.com/entry/pyexp-1,534/
-Sar:1				    intermediate		https://www.vulnhub.com/entry/sar-1,425/
-Seppuku:1			  intermediate		https://www.vulnhub.com/entry/seppuku-1,484/
-Sunset:Solstice	intermediate		https://www.vulnhub.com/entry/sunset-solstice,499/
-So Simple			  intermediate		https://www.vulnhub.com/entry/so-simple-1,515/
-Stapler:1			  intermediate		https://www.vulnhub.com/entry/stapler-1,150/
-Sunset:Decoy		intermediate  	https://www.vulnhub.com/entry/sunset-decoy,505/
-Sunset:Midnight	intermediate		https://www.vulnhub.com/entry/sunset-midnight,517/
-Tre:1				    intermediate		https://www.vulnhub.com/entry/tre-1,483/
-Vegeta1:1			  intermediate		https://www.vulnhub.com/entry/vegeta-1,501/
+Asserition101	|	  intermediate		https://www.vulnhub.com/entry/assertion-1,495/
+Born2Root		  |	  intermediate		https://www.vulnhub.com/entry/born2root-1,197/
+Bottleneck		|	  intermediate		https://www.vulnhub.com/entry/bottleneck-1,374/
+BTRSYS V2.1		|	  intermediate	  https://www.vulnhub.com/entry/btrsys-v21,196/
+Sunset:dawn2	|	  intermediate		https://www.vulnhub.com/entry/sunset-dawn2,424/
+Sunset Dawn3	|	  intermediate	  https://www.vulnhub.com/entry/sunset-dawn3,436/
+Djinn3				|   intermediate		https://www.vulnhub.com/entry/djinn-3,492/
+Funbox:easyenum 	intermediate		https://www.vulnhub.com/entry/funbox-easyenum,565/
+Geisha:1			|   intermediate		https://www.vulnhub.com/entry/geisha-1,481/
+Gitroot				|   hard			    	https://www.vulnhub.com/entry/gitroot-1,488/
+Glasgow smile |   intermediate		https://www.vulnhub.com/entry/glasgow-smile-11,491/
+Ha-natraj			|   hard				    https://www.vulnhub.com/entry/ha-natraj,489/
+Ha:Wordy			|   intermediate		https://www.vulnhub.com/entry/ha-wordy,363/
+Inclusive...:1| 	hard		    		https://www.vulnhub.com/entry/inclusiveness-1,422/
+Insanity:1		| 	very hard		  	https://www.vulnhub.com/entry/insanity-1,536/
+Katana:1			|   intermediate 		https://www.vulnhub.com/entry/katana-1,482/
+Lampiao				|   intermediate		https://www.vulnhub.com/entry/lampiao-1,249/
+Loly:1				|   intermediate		https://www.vulnhub.com/entry/loly-1,538/
+My CMSMS:1		| 	intermediate		https://www.vulnhub.com/entry/my-cmsms-1,498/
+Photographer	| 	intermediate 		https://www.vulnhub.com/entry/photographer-1,519/
+Potato:1			|   intermediate		https://www.vulnhub.com/entry/potato-1,529/
+Powergrid     | 	very hard			  https://www.vulnhub.com/entry/powergrid-1,485/
+Pyexp:1				|   intermediate  	https://www.vulnhub.com/entry/pyexp-1,534/
+Sar:1				  |   intermediate		https://www.vulnhub.com/entry/sar-1,425/
+Seppuku:1			|   intermediate		https://www.vulnhub.com/entry/seppuku-1,484/
+Sunset:Sols.. |	  intermediate		https://www.vulnhub.com/entry/sunset-solstice,499/
+So Simple			|   intermediate		https://www.vulnhub.com/entry/so-simple-1,515/
+Stapler:1			|   intermediate		https://www.vulnhub.com/entry/stapler-1,150/
+Sunset:Decoy	|   intermediate  	https://www.vulnhub.com/entry/sunset-decoy,505/
+Sunset:Mid... |   intermediate		https://www.vulnhub.com/entry/sunset-midnight,517/
+Tre:1				  |   intermediate		https://www.vulnhub.com/entry/tre-1,483/
+Vegeta1:1			|   intermediate		https://www.vulnhub.com/entry/vegeta-1,501/
 
 Monitoring:1		easy?     	https://www.vulnhub.com/entry/monitoring-1,555/
 BBSCute				  easy				https://www.vulnhub.com/entry/bbs-cute-101,567/
