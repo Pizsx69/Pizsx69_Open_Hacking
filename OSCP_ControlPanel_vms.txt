@@ -2,7 +2,7 @@
 | Asserition101   | intermediate  |   https://www.vulnhub.com/entry/assertion-1,495/  |
 | Born2Root       | intermediate	|   https://www.vulnhub.com/entry/born2root-1,197/  |
 | Bottleneck      |	intermediate  |   https://www.vulnhub.com/entry/bottleneck-1,374/ |
-BTRSYS V2.1		|	  intermediate	  https://www.vulnhub.com/entry/btrsys-v21,196/
+| BTRSYS V2.1     |	intermediate	|    https://www.vulnhub.com/entry/btrsys-v21,196/  |
 Sunset:dawn2	|	  intermediate		https://www.vulnhub.com/entry/sunset-dawn2,424/
 Sunset Dawn3	|	  intermediate	  https://www.vulnhub.com/entry/sunset-dawn3,436/
 Djinn3				|   intermediate		https://www.vulnhub.com/entry/djinn-3,492/
