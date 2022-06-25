@@ -1,3 +1,5 @@
+| Default Header | Left Align | Right Align | Center Align |
+
 Asserition101	|	  intermediate		https://www.vulnhub.com/entry/assertion-1,495/
 Born2Root		  |	  intermediate		https://www.vulnhub.com/entry/born2root-1,197/
 Bottleneck		|	  intermediate		https://www.vulnhub.com/entry/bottleneck-1,374/
