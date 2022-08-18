@@ -27,10 +27,10 @@
 |	Sunset:Sols..	|	intermediate	|	https://www.vulnhub.com/entry/sunset-solstice,499/
 |	So Simple	|	intermediate	|	https://www.vulnhub.com/entry/so-simple-1,515/
 |	Stapler:1	|	intermediate	|	https://www.vulnhub.com/entry/stapler-1,150/
-|	Sunset:Decoy	|	intermediate	|	https://www.vulnhub.com/entry/sunset-decoy,505/
-|	Sunset:Mid...	|	intermediate	|	https://www.vulnhub.com/entry/sunset-midnight,517/
-|	Tre:1    	|	intermediate	|	https://www.vulnhub.com/entry/tre-1,483/
-|	Vegeta1:1	|	intermediate	|	https://www.vulnhub.com/entry/vegeta-1,501/
+|	Sunset:Decoy	|	intermediate	|	https://www.vulnhub.com/entry/sunset-decoy,505/ noip
+|	Sunset:Mid...	|	intermediate	|	https://www.vulnhub.com/entry/sunset-midnight,517/ done
+|	Tre:1    	|	intermediate	|	https://www.vulnhub.com/entry/tre-1,483/ noip
+|	Vegeta1:1	|	intermediate	|	https://www.vulnhub.com/entry/vegeta-1,501/ done
 
 |	Monitoring:1	|	easy?   	|	https://www.vulnhub.com/entry/monitoring-1,555/
 |	BBSCute		|	easy   	  	|	https://www.vulnhub.com/entry/bbs-cute-101,567/
