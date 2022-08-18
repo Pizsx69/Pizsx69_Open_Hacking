@@ -32,7 +32,7 @@
 |	Tre:1    	|	intermediate	|	https://www.vulnhub.com/entry/tre-1,483/ noip
 |	Vegeta1:1	|	intermediate	|	https://www.vulnhub.com/entry/vegeta-1,501/ done
 
-|	Monitoring:1	|	easy?   	|	https://www.vulnhub.com/entry/monitoring-1,555/
+|	Monitoring:1	|	easy?   	|	https://www.vulnhub.com/entry/monitoring-1,555/ nem működik.?
 |	BBSCute		|	easy   	  	|	https://www.vulnhub.com/entry/bbs-cute-101,567/
 |	Cybersploit	|	easy     	|	https://www.vulnhub.com/entry/cybersploit-1,506/
 |	Sunset:Dawn	|	easy     	|	https://www.vulnhub.com/entry/sunset-dawn,341/
